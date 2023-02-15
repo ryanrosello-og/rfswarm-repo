@@ -1,0 +1,12 @@
+robotframework==6.0.2
+robotframework-assertion-engine==1.0.0
+robotframework-browser==15.2.0
+robotframework-jsonlibrary==0.5
+robotframework-pabot==2.13.0
+robotframework-pythonlibcore==4.1.0
+robotframework-requests==0.9.4
+robotframework-stacktrace==0.4.1
+robotframework-tidy==3.3.3
+rfswarm-manager==1.0.0
+rfswarm-agent==1.0.0
+rfswarm-reporter==1.0.0
